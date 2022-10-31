@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "biddingcars-363616",
+  "private_key_id": "388559846437fed3fd3708a1eecdcecde61ec8aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXhmNAJk+4XNjZ\nAq1uge8K2FNnk1DRj9M1HDcXRnEEjl/BDRskJchiScH7vVIEgbVHvEeCuPE1SvYp\n/rcD6SQ/FIrOhUFX9cdhujY40eNKXRg3uD/AYcETC9sDeKbXlfRmHLCXJimYsGqV\nKq841m7MI3jykpv48AfukXoSwEHPCYDDDPmPdbouiQpaOugsbqb2YSmtQgjXuEP4\nuGCqqSNnMMwUxmCKML2gs+HiZE2ELw/Pg2TgDeR0ZNCQHfl7cPRBBKkFzi/WpDtH\ntFb8lEl7TwaYm1o5mbexOSZQUSy2JwSD/S36z0WtPvuMXCEozszxi0x/30o5vrtx\nF+fzydRDAgMBAAECggEAAwFaLZcKRLypW7XXDRaMUFmVtJEHl33JRsfjpdVdVNBN\na42gKK7hKGXlxYxDOK3+k54oiES1Gq/9GDx3knRze2wjtqXjnmQptgap9aWKuFpb\n/8WVP3JmOxj57o8xi/Fq8q2F/nF2KL5IVuNiV00VedIISj4IfumlK/ZRsVaD16CE\n+Q5pKz9NneDY2TTZPk5LdvmB57zCbBnAz+lXXVPJc4lw7euI5K3LvwKeGpXSd+FM\nle+Nw+pud5JW1mb+RnsYxoAF2jPeVZmsRN3BwPyQUoN3bKruZhkLcaTVA9PFrlvP\nfCOP/p4ht6j7F4UEIlbmUr3GZyQ7+4Qprt2fU56fUQKBgQDMRWSbVEB3G17Nifba\nGol8KMXkI6KjIXqTqsNkcgqyGPlPEcRXEdnzasNsvIiYkMVih1hVdFbVFbinXG5W\nE1Zvp6hlc7ON0ZkqeoMXcqqdbzl+eNxrnWH34l2zLWGlzB2qyZ92i5Wx05kW3x4y\nPnD7VTQlthBBLx6AIoMPUj0EEwKBgQC95Ym7KOW4v6IaAkB8qKbQBcZtTkakAggR\n/cTPUQsi0tElwhZ1OXFC6Z2mtMJB09kwb6D+IM2Z0ukAx6kSOl8BaZMT1P16LTgg\ne+nMRqh0Q0VvadOqCJ26OTh5/49IhX7+BpNkOJzOauyMT/+aBsDRpgmGhYoDaXXy\nbjJ3KN0VEQKBgDJ0wZEMko/ZFuW2Ol9NRsCAYcEkfDvHPTvUZkcdVD8BpDM/tDu9\nkRRrPrJRL3xf5iGcRNl2zyv7HY1Za3efdy5FP3cvyR4ys56mfFMCY9pXauAugmOi\nkFxmcbaccw49CObyvozNlcBDAAGCQzct7UJnnWXjPsibFvGXlL/oFGI5AoGAa7+M\ncPf5sOR7VAqnEJSZYjuEpYzepDzK23qEa6XujanVJnmESKt5SqBH5cl21+ceu077\nqHZwcrGrp9eiZUddlO2UmJIn6WUzDauBs3j8KEvrYBZKFZah+IJzOzX41Qt6TSTq\nCNnej3k4Ez1pKLpgOhTeHsgy0VDLre09EUPMfiECgYAn9M+bJDtGA3a2XmOqI61f\ns97C1izhY3Yo5RMe3QmRvV1DsYsaK96gMV7phtm6GzAwv5bt4UzmaTJ/FmtITk0a\nsrUeYbvlZ5mfyZH5E2CYZIKDj6xIQQEQeu784rXGl8nqbR5qyS8M5jfJIOQTRb5D\niQ38e8FAwmTRb9ujpXkYzQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ulaf9@biddingcars-363616.iam.gserviceaccount.com",
+  "client_id": "101720513215993324906",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ulaf9%40biddingcars-363616.iam.gserviceaccount.com"
+}
