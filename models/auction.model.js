@@ -10,6 +10,6 @@ const auctionSchema = new Schema({
   timestamps: true,
 });
 
-const Auction = mongoose.model('Car', auctionSchema);
+const Auction = mongoose.models.Auction ||  mongoose.model('Auction', auctionSchema);
 
 module.exports = Auction;

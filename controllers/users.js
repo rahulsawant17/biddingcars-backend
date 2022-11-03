@@ -28,6 +28,7 @@ exports.addUser = async (req, res) => {
       lastname: req.body.lastname,
       email: req.body.email,
       role:req.body.role,
+      isVerified:false,
     });
     newUser
       .save()

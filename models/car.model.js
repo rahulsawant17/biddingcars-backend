@@ -47,6 +47,10 @@ const carSchema = new Schema({
     type: Number,
     default:0
   },
+    endTime: {
+    type: Date,
+    // required: true
+  },
   bidTimelineId: { type: Number,
     // required: true
   },
@@ -55,13 +59,17 @@ const carSchema = new Schema({
   },
   status: {
     type: String,
-    enum: ["pending for approval", "approved","rejected","sold"],
+    enum: ["pending", "approved","rejected","sold"],
     required: true,
   },
+  lock: {
+    type: Boolean,
+    default:false
+  }
 }, {
   timestamps: true,
 });
 
-const Car = mongoose.model('Car', carSchema);
+const Car =  mongoose.models.Car || mongoose.model('Car', carSchema);
 
 module.exports = Car;
