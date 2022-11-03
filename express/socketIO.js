@@ -7,7 +7,7 @@ const socketServer = http.createServer(socketApp);
 const { Server } = require("socket.io");
 const io = new Server(socketServer, {
   cors: {
-    origin: "https://bidbackend.netlify.app/.netlify/functions/server",
+    origin: "https://bidfrontend.netlify.app/auctions",
     methods: ["GET", "POST"],
   },
 });
