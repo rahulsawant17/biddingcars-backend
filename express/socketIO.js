@@ -14,8 +14,8 @@ const io = new Server(socketServer, {
 
 socketApp.use(cors());
 
-socketServer.listen(4000, () => {
-    console.log(`Server is running on socket: 4000`);
+socketServer.listen(process.env.SOCKET_PORT, () => {
+    console.log(`Server is running on socket: ${process.env.SOCKET_PORT}`);
 });
 
 module.exports = { io };
