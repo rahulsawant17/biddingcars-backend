@@ -1,2 +1,7 @@
 [build]
 functions = "functions"
+
+[[redirects]]
+  from = "/socket.io"
+  to = "//.netlify/functions/socketIO"
+  query = {path = ":path"}
