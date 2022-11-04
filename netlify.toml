@@ -3,5 +3,4 @@ functions = "functions"
 
 [[redirects]]
   from = "/socket.io"
-  to = "//.netlify/functions/socketIO"
-  query = {path = ":path"}
+  to = "/.netlify/functions/socketIO"
